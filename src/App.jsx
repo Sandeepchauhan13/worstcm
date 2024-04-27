@@ -19,7 +19,7 @@ function App() {
            <p className='mt-10'>Sukhu knows that only Pratibha or Vikramaditya can become MP, only one Lok Sabha seat can come and CM wants to defeat Pratibha ji in MP elections.</p>
          </div>
 
-         <h1 className="text-2xl text-green-600">Youth of Himachal challenges Sukhu ji (CM), you will not able to win MP election even from Hamirpur seat.</h1>
+         <h1 className="text-2xl text-green-700">Youth of Himachal challenges Sukhu ji (CM), you will not able to win MP election even from Hamirpur seat.</h1>
        
     </>
   )
